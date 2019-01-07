@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Dulaj Chathuranga
-  pic: 1
+  pic: dulaj_chathuranga
   position: Co-Founder & CEO
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Thrishala Devindi
-  pic: 2
+  pic: thrishala_devindi
   position: Co-Founder & CMO
   social:
     - title: twitter
